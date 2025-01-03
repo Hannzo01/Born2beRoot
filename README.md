@@ -2,7 +2,7 @@
 
 ![](attachment/34928c210dc3c762fa0dd94719e0ea9e.png)
 
-Here is the link to my BornToBeRoot board, where I noted what I learned during this project: ---> [BornToBeRoot Board]([https://miro.com/app/board/uXjVLzBvyb8=/?share_link_id=54254928097](https://miro.com/app/board/uXjVLzBvyb8=/?share_link_id=54254928097))
+Here is the link to my BornToBeRoot board, where I noted what I learned during this project: ---> [BornToBeRoot Board]([https://miro.com/app/board/uXjVLzBvyb8=/])
 
 ---
 
