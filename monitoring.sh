@@ -13,7 +13,7 @@ wall "
 	#Last boot:   $(who -b | awk '{print $3, $4}')
 	#LVM use:     $(lsblk | grep -q "lvm" && echo "yes" || echo "no")
 	#Connections TCP : $(ss -tH state established | wc -l) "ESTABLISHED" 
-	#User log:     $(users | tr ' ' '\n' | uniq | wc -l)
+	#User log:     $(users | tr ' ' '\n' | sort | uniq | wc -l)
 	#Network : $(hostname -I | awk '{print "IP", $1}') $(ip link | grep "link/ether" | awk '{printf("("$2")")}') 
 	#Sudo  :     $(journalctl | grep sudo | grep COMMAND | wc -l) cmd
 "
