@@ -23,7 +23,7 @@ Developed a custom Bash script (`monitoring.sh`) scheduled via `cron` to automat
 
 ## 🗺️ Learning Roadmap
 To visualize the concepts learned during this project—from basic Linux file permissions (`chmod`, `chown`) to advanced virtualization structures—check out my complete mind map: 
-*   [View my Born2beRoot Visual Board Here](link-to-your-board-or-image)
+* View my Born2beRoot Visual Board Here ---> [BornToBeRoot Board](https://miro.com/app/board/uXjVLzBvyb8=/)
 
 ## Full Born2beRoot Roadmap png : 
 
